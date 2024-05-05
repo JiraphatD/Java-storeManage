@@ -1,0 +1,7 @@
+ในการใช้databaseจำเป็นต้องไปเชื่อมที่อยู่ไฟล์ก่อน
+โดยไปที่ netbean
+-เลือกแถบ service
+-คลิกขวาที่ Java DB
+-เลือก Properties
+-เลือกที่อยู่ Database Location ตามนี้
+C:\Users\user\Downloads\DaiTaeKhidLaewKorSongsai\GUI\Derby
